@@ -27,3 +27,5 @@ The instruction set is:
 The architecture diagram for the processor is:
 
 ![Architecture Diagram](images/architecture_diagram.png)
+
+Three sample programs are contained in the files program1.txt, program2.txt and program3.txt. The corresponding data for these programs are contained in the files data1.txt, data2.txt and data3.txt. The programs and data are written in hexadecimal.
